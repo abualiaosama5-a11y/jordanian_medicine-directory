@@ -1,0 +1,8 @@
+{
+  "name": "Remix Jordanian Medicine Directory",
+  "description": "A comprehensive bilingual (Arabic \u0026 English) directory of medications available in Jordan with scientific composition, indications, side effects, category filtering, and speech synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
